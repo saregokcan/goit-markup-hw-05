@@ -656,3 +656,8 @@ textarea:focus {
 label {
 margin:0;
 }
+.modal-p{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
