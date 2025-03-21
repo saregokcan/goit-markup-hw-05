@@ -647,7 +647,7 @@ textarea:focus {
   fill: #f4f4fd;
 }
 .modal-clsss {
-  margin-bottom: 16px;
+  margin-bottom: 24px;
 }
 .icon-bir {
   position: absolute;
@@ -669,4 +669,8 @@ margin:0;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.modal-clsa{
+  margin-bottom: 16px;
 }
