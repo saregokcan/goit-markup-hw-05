@@ -4,6 +4,10 @@ body {
   background-color: #ffffff;
 }
 
+*, ::after, ::before {
+  box-sizing: unset
+}
+
 footer div {
   display: flex;
   align-items: baseline;
